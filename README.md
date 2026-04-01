@@ -111,13 +111,7 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2 — Train the ML Model
-
-```bash
-python cli.py train
-```
-
-### 3 — Start the Web Server
+### 2 — Start the Web Server
 
 ```bash
 python app.py

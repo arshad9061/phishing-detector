@@ -105,7 +105,7 @@ phishing-detector/
 
 ```bash
 git clone https://github.com/yourname/phishguard-ai.git
-cd phishguard-ai
+cd phishing-detector
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
